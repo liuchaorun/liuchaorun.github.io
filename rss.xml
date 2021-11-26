@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>博客</title>
+        <subtitle></subtitle>
+        <icon>https://liuchaorun.github.io/images/favicon.ico</icon>
+        <link>https://liuchaorun.github.io</link>
+        <author>
+          <name>chaorun liu</name>
+        </author>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 26 Nov 2021 20:05:43 +0800</pubDate>
+        <lastBuildDate>Fri, 26 Nov 2021 20:05:43 +0800</lastBuildDate>
+        <category term="c/c++" />
+        <category term="javascript" />
+        <item>
+            <guid isPermalink="true">https://liuchaorun.github.io/about/</guid>
+            <title>about</title>
+            <link>https://liuchaorun.github.io/about/</link>
+            <pubDate>Fri, 26 Nov 2021 20:05:43 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;关于我&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

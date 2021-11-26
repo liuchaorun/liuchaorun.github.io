@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://liuchaorun.github.io</id>
+    <title>博客</title>
+    <subtitle></subtitle>
+    <icon>https://liuchaorun.github.io/images/favicon.ico</icon>
+    <link href="https://liuchaorun.github.io" />
+    <author>
+      <name>chaorun liu</name>
+    </author>
+    <updated>2021-11-26T12:05:43.000Z</updated>
+    <category term="c/c++" />
+    <category term="javascript" />
+    <entry>
+        <id>https://liuchaorun.github.io/about/</id>
+        <title>about</title>
+        <link rel="alternate" href="https://liuchaorun.github.io/about/"/>
+        <content type="html">&lt;p&gt;关于我&lt;/p&gt;
+</content>
+        <updated>2021-11-26T12:05:43.000Z</updated>
+    </entry>
+</feed>
